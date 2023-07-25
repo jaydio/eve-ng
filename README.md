@@ -27,10 +27,10 @@ How to use:
 
 ```
 # make a backup
-cp /opt/unetlab/scripts/config_mikrotik.py /opt/unetlab/scripts/config_mikrotik.py.org
+cp /opt/unetlab/config_scripts/config_mikrotik.py /opt/unetlab/config_scripts/config_mikrotik.py.org
 
 # overwirte the original script
-cp ./scripts/config_mikrotik.py /opt/unetlab/scripts/config_mikrotik.py
+cp ./scripts/config_mikrotik.py /opt/unetlab/config_scripts/config_mikrotik.py
 ```
 
 NOTES: 
